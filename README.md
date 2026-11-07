@@ -5,7 +5,7 @@
 ## Informasi Peserta
 - Nama : Izwa Fahzan Ali
 - Kelas : TI 1c
-- Kelompok : Expedition 33
+- Kelompok : Expedition 33 (Kelompok 3)
 
 ## Deskripsi & Tujuan Repository
 Repository ini dibuat untuk mendokumentasikan kegiatan **Day 1 Proyek Workshop** pada acara sosialisasi jurusan. Repository ini berfungsi sebagai wadah untuk menyimpan catatan materi, poin-poin pengetahuan baru yang dipelajari, serta mengelola kode dari proyek praktikal *Student Task Planner* menggunakan sistem kontrol versi (Git & GitHub).
