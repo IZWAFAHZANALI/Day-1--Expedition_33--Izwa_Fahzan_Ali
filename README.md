@@ -3,8 +3,8 @@
 # Day 1 Proyek Workshop - Building with AI, Managing Change with GitHub
 
 ## Informasi Peserta
-- **Nama Lengkap:** [Isi Nama Lengkap Anda]
-- **Kelompok:** [Isi Nama Kelompok Anda]
+- Izwa Fahzan Ali
+- Expedition 33
 
 ## Deskripsi & Tujuan Repository
 Repository ini dibuat untuk mendokumentasikan kegiatan **Day 1 Proyek Workshop** pada acara sosialisasi jurusan. Repository ini berfungsi sebagai wadah untuk menyimpan catatan materi, poin-poin pengetahuan baru yang dipelajari, serta mengelola kode dari proyek praktikal *Student Task Planner* menggunakan sistem kontrol versi (Git & GitHub).
